@@ -1,0 +1,6 @@
+.options-container{
+    display: flex;
+    flex-direction: column;
+    width: 15rem;
+    margin: 2rem auto;
+}
